@@ -69,12 +69,11 @@ Point `video_path` in the script to your traffic video file and you're good to g
 
 ```
 traffic-monitor/
-├── traffic_monitor.py
+├── main.py
 ├── requirements.txt
 ├── README.md
-└── assets/
-    ├── demo.gif
-    └── sample_summary.png
+├── working.png
+├── traffic_summary.png
 ```
 
 ---
