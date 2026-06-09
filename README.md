@@ -2,6 +2,7 @@
 
 A computer vision project that counts vehicles crossing a line in real-time — built from scratch without relying on any high-level tracking libraries like Supervision.
 
+![Demo](working.png)
 
 ## What it does
 
@@ -38,7 +39,7 @@ No Supervision. No Roboflow utilities. Just YOLO + OpenCV + logic written by han
 
 ##  Sample Output
 
-![Summary Chart](assets/sample_summary.png)
+![Summary Chart](traffic_summary.png)
 
 ---
 
